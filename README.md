@@ -7,20 +7,26 @@ simple NotePad with WPF
 
 ![entirety program](https://github.com/ParkJeongSu/WPF-NotePad/blob/master/1.png)
 
-
 ### this is my program picture
+
+
 
 ![entirety program](https://github.com/ParkJeongSu/WPF-NotePad/blob/master/2.png)
 
 ### you can New File, Open File, Save File and Exit
 
+
+
 ![entirety program](https://github.com/ParkJeongSu/WPF-NotePad/blob/master/3.png)
 
 ### if you click Open File button, you can see this picture
 
-![entirety program](https://github.com/ParkJeongSu/WPF-NotePad/blob/master/4.png)
+
+
+![entirety program](https://github.com/ParkJeongSu/WPF-NotePad/blob/master/4.PNG)
 
 ### Finally if you click Exit Button and New File Button with Not Clean TextBox
 ### you can see this picture
+
 
 ### Thank you
